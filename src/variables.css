@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+:root {
+    --color-red: #b80a0a;
+    --background-grey: #C4C4C4;
+    --default-font-family: "Roboto", sans-serif;
+    --slider-height: 710px;
+    --slider-mobile-height: 900px;
+    --slider-win-width: 768px;
+    --slider-item--border-radius: 90px;
+  }
